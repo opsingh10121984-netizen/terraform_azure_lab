@@ -7,12 +7,16 @@ rg = {
     name     = "prodrg_new"
     location = "centralindia"
   }
-   rg3 = {
+  rg3 = {
     name     = "prodrg_new1"
     location = "centralindia"
   }
-   rg4 = {
+  rg4 = {
     name     = "prodrg_new2"
+    location = "centralindia"
+  }
+  rg5 = {
+    name     = "prodrg_new3"
     location = "centralindia"
   }
 }
