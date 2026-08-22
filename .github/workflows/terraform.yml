@@ -19,7 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: parentmodule
+        working-directory: terraform_azure_lab/parentmodule
 
     steps:
       - name: Checkout code
@@ -67,7 +67,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: parentmodule
+        working-directory: terraform_azure_lab/parentmodule
 
     steps:
       - name: Checkout code
