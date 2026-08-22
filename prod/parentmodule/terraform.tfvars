@@ -15,6 +15,10 @@ rg = {
     name     = "prodrg_new2"
     location = "centralindia"
   }
+  rg5 = {
+    name     = "prodrg_new3"
+    location = "centralindia"
+  }
 }
 
 vnet = {
